@@ -5,7 +5,7 @@
 .bgimage{
 	background-image: url('bg photo.jpg');
 	background-size: 100% 200%;
-	width:100%;
+	width:200%;
 	height: 100vh;
 
 }
@@ -38,7 +38,7 @@
 	display: inline-block;
 	list-style: none;
 	font-size: 50px;
-	color: black;
+	color: white;
 	font-weight: bold;
 	line-height: 100px;
 	margin-left: 700px;
@@ -51,10 +51,10 @@ a{
 
 
 .rightmenu ul li a:hover{
-		color: white!important;
+		color: blue!important;
 	}
 a hover{
-	color:white!important;
+	color:blue!important;
 }
 
 
