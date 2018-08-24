@@ -53,4 +53,12 @@ a.active,.nav a:hover{
 .d{
 	width:90%;
 }
-
+.content{
+	position: absolute;
+	width: 930px;
+	min-height:500px;
+	height:auto;
+	background-color:red;
+	right:0;
+	top:10%
+}
