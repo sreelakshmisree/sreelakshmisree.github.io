@@ -58,7 +58,25 @@ a.active,.nav a:hover{
 	width: 930px;
 	min-height:500px;
 	height:auto;
-	background-color:red;
+	/*background-color:red;*/
 	right:0;
 	top:10%
+}
+.home{
+	position:absolute;
+	right:0;
+	bottom:-50px;
+	color:white;
+	font-family:verdana;
+	
+}
+.home h1{
+	font-size:95px;
+	padding-right:80px;
+	border-bottom:1px solid white;
+}
+.home h3{
+	font-size:28px;
+	padding:5px 0;
+	opacity:0.6
 }
